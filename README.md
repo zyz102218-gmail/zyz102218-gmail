@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zyz102218-gmail
-- 👀 I’m interested in physics caculating, OpenCV and other kinds of image processing, and MCU programming.
-- 🌱 I’m currently learning go-lang, MySQL, STM32 and ESP32 architecture.
+- 👋 Hi, I’m Dill Zhu, also known as @zyz102218-gmail
+- 👀 I’m interested in physics caculating, Meta Learning and MCU programming.
+- 🌱 I’m currently learning torch, CUDA and FPGA.
 - 💞️ I’m looking to collaborate on something is interesting.
 - 📫 How to reach me zyz102218@gmail.com
 
